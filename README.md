@@ -170,19 +170,19 @@ Compare models, tuning results, and final metrics.
 ## 1️⃣ Install Dependencies
 
 ```bash
-pip install -r requirements.txt
+pip install -r requirement.txt
 ```
 
 ## 2️⃣ Train Model
 
 ```bash
-python train_ecotype_final.py
+python train_ecotype.py
 ```
 
 ## 3️⃣ Launch Streamlit App
 
 ```bash
-streamlit run app.py
+streamlit run app_ecotype.py
 ```
 
 ---
