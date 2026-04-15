@@ -165,28 +165,6 @@ Compare models, tuning results, and final metrics.
 
 ---
 
-# 📂 Project Structure
-
-```bash
-EcoType_Project/
-│── app.py
-│── train_ecotype_final.py
-│── covtype.csv
-│── requirements.txt
-│── README.md
-│── artifacts/
-│   ├── best_model.pkl
-│   ├── label_encoder.pkl
-│   ├── preprocessor.pkl
-│   ├── model_comparison.csv
-│   ├── tuning_results.csv
-│   ├── classification_report.txt
-│   ├── confusion_matrix.png
-│   └── run_manifest.json
-```
-
----
-
 # ▶️ How to Run the Project
 
 ## 1️⃣ Install Dependencies
